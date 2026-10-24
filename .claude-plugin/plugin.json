@@ -1,0 +1,6 @@
+{
+  "name": "time-left",
+  "version": "0.1.0",
+  "description": "A pane showing how long running subagents, tool calls and turns have left, estimated from past runs",
+  "types": "./types/index.d.ts"
+}

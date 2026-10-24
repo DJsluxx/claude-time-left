@@ -1,0 +1,5 @@
+{
+  "name": "claude-time-left",
+  "owner": { "name": "DJsluxx" },
+  "plugins": [{ "name": "time-left", "source": "./" }]
+}
